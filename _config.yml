@@ -2,3 +2,5 @@ title: Website hacking
 description: تعلم اختراق الموقع
 url: https://abdoly54.github.io/hack_website/
 theme: minima
+sitemap:
+  enabled: true
