@@ -1,0 +1,10 @@
+{
+  "name": "تعلم اختراق الموقع",
+  "short_name": "hack website",
+  "description": "تعلم اختراق الموقع",
+  "start_url": "https://abdoly54.github.io/hack_website/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": []
+}
